@@ -10,19 +10,19 @@ Floyed E. Roberts III,52,Grand Canyon,Arizona,2016,,36.097743,-112.0967621
 Morgan Heimer,22,Grand Canyon,Arizona,2015,,36.097743,-112.0967621
 Drake Kramer,21,Grand Canyon,Arizona,2015,,36.097743,-112.0967621
 Adam Clayton Lyle Jones,23,Grand Canyon,Arizona,2011,,36.097743,-112.0967621
-Paul Braxton Fugate,41,Chiricahua National Monument Region,Arizona,1980,,,
+Paul Braxton Fugate,41,Chiricahua National Monument Region,Arizona,1980,,32.037033,-109.315598
 David Barclay Miller,22,Coconino National Forest,Arizona,1998,,34.9455958,-111.43300181152304
-Janet Castrejon,44,Chiricahua National Monument Region,Arizona,2015,,,
-Christopher Stevens Sylvia,28,Chihuahua National Park,Arizona,2015,,,
+Janet Castrejon,44,Chiricahua National Monument Region,Arizona,2015,,32.037033,-109.315598
+Christopher Stevens Sylvia,28,Chihuahua National Park,Arizona,2015,,35.004417,-109.794461
 Peter Francis Schwab,66,Grand Canyon,Arizona,2019,body found,36.097743,-112.0967621
 Michael Legus,39,Grand Canyon,Arizona,2017,,36.097743,-112.0967621
 Sarah Beadle,38,Grand Canyon,Arizona,2017,,36.097743,-112.0967621
 Bobbie Eckerman,age unspecified,Coronado National Forest,Arizona,1922,,31.480505649999998,-111.25115975190926
 Justin Lee Richardson,13,Kaibab National Forest,Arizona,2001,,36.6015225,-112.31704707616264
-Reinard Kirchner,61,Coconino County Navajo Reservation,Arizona,2007,,,
-Kaylene Marie Gallegos,22,White Mountains Apache Trail,Arizona,2010,,,
+Reinard Kirchner,61,Coconino County Navajo Reservation,Arizona,2007,,36.251766,-111.572655
+Kaylene Marie Gallegos,22,White Mountains Apache Trail,Arizona,2010,,34.110250,-109.252216
 Shawn Rentz,27,Coconino National Forest,Arizona,2012,,34.9455958,-111.43300181152304
-Lawrence Kosden,69,Chiricahua National Monument Region,Arizona,2015,,,
+Lawrence Kosden,69,Chiricahua National Monument Region,Arizona,2015,,32.037032,-109.315600
 Peter Jackson,74,Yosemite National Park,California,2016,,37.83930035,-119.51646348068644
 George Penca,30,Yosemite National Park,California,2011,,37.83930035,-119.51646348068644
 Micheal Ficery,51,Yosemite National Park,California,2005,,37.83930035,-119.51646348068644
@@ -35,7 +35,7 @@ Jane Doe,17-30,Yosemite National Park,California,1981,,37.83930035,-119.51646348
 Stacy Anne Arras,14,Yosemite National Park,California,1981,,37.83930035,-119.51646348068644
 Dikran Knadjian,20,Yosemite National Park,California,1972,,37.83930035,-119.51646348068644
 Walter Scheib,61,Yerba Buena Trail,California,2015,,37.3369821,-121.6996993
-David O’Sullivan,25,Idyllwild Forest Region,California,2017,,,
+David O’Sullivan,25,Idyllwild Forest Region,California,2017,,33.747943,-116.878039
 Randy San Jacinto,28,Mount San Jacinto,California,1988,,33.792828549999996,-116.66767657574526
 Maximillian L. Schweitzer,41,Yosemite National Park,California,2018,,37.83930035,-119.51646348068644
 Kenny Miller,12,Yosemite National Park,California,1992,,37.83930035,-119.51646348068644
@@ -86,11 +86,11 @@ Micheal Allen Ficery,51,Yosemite National Park,California,2005,,37.83930035,-119
 David Douglas Booke,56,Whiting Ranch Wilderness,California,2006,,33.689232849999996,-117.64421246802576
 Robert S. Willis IV,37,Sierra National Forest,California,2008,,37.2820648,-119.14998961936823
 Katherine Anne Truitt,37,Point Reyes,California,2010,,37.9953181,-123.0234657
-Randall Gene Young,51,Los Padres National Park,California,2010,,,
-Eric Christopher Grant,33,Navarro Headlands,California,2010,,,
+Randall Gene Young,51,Los Padres National Park,California,2010,,37.871742,-119.544983
+Eric Christopher Grant,33,Navarro Headlands,California,2010,,39.151843,-123.541956
 Arvin Walter Nelson,51,Pfeiffer Big Sur,California,2014,,36.2510922,-121.7834069
 Daniel Gallardo,19,Tahoe National Forest,California,2015,,39.51207345,-120.71019636504342
-Dona Marie Perry,69,Los Padres National Park,California,2016,,,
+Dona Marie Perry,69,Los Padres National Park,California,2016,,37.326443,-121.900290
 Jorge Serrano Zaldivar,25,Angeles National Forest,California,2016,,34.3212706,-117.96147324679369
 Michael Patrick Flynn,63,Angeles National Forest,California,2016,,34.3212706,-117.96147324679369
 Egbert Rimkus,34,Death Valley National Park,California,1996,,36.4702428,-117.08839086763231
@@ -108,15 +108,15 @@ Jack Huett,24,Plumas National Forest,California,1978,,39.89729215,-120.405458057
 Theodore Weiher,32,Plumas National Forest,California,1978,remains found,39.89729215,-120.40545805770988
 William Sterling,29,Plumas National Forest,California,1978,remains found,39.89729215,-120.40545805770988
 Timothy Nolan,36,Yosemite National Park,California,2015,,37.83930035,-119.51646348068644
-Stephen Michael Morris,59,Shasta Trinity National Park,California,2014,,,
-Larry Conn,53,Kings Canyon National Park,2013,,,36.91527845,-118.60765585962608
-Matthew Greene,39,Mammoth Lakes National Park,California,2013,,,
-Mike Herdman,36,Los Padres National Park,California,2014,,,
+Stephen Michael Morris,59,Shasta Trinity National Park,California,2014,,40.599240,-122.492320
+Larry Conn,53,Kings Canyon National Park,California,2013,,36.91527845,-118.60765585962608
+Matthew Greene,39,Mammoth Lakes National Park,California,2013,,37.640139,-118.966594
+Mike Herdman,36,Los Padres National Park,California,2014,,37.326443,-121.900290
 Jeanne Hesselschwerdt,37,Yosemite National Park,California,1995,,37.83930035,-119.51646348068644
 Herbert Landers,69,Mount Shasta National Forest,California,1999,,41.4091625,-122.1946052
 Sue Tolhurst,75,Stanislaus National Forest,California,2005,,38.114431,-120.04715747861164
 Breck McDowell Phelps,68,Stanislaus National Forest,California,2016,,38.114431,-120.04715747861164
-Barbara Thomas,69,Mojave Desert Region,California 2019,,,33.8005942,-116.5458216
+Barbara Thomas,69,Mojave Desert Region,California,2019,,33.8005942,-116.5458216
 Sreenivus Mokkapati,52,Mount Baldy,California,2019,,50.125533,-124.3187229
 William Michael Ewasko,66,Joshua Tree National Park,California,2010,,33.89706715,-115.95111578868344
 Mitchell Dale Stehling,51,Mesa Verde National Park,Colorado,2013,,37.253776,-108.45559640928934
@@ -129,7 +129,7 @@ Christopher James Harvey,14,San Juan National Forest,Colorado,1984,,37.476397,-1
 Teresa Schmidt,53,Pike National Forest,Colorado,2002,,39.159136000000004,-105.29153463814711
 Peter Jeffirs,age unspecified,Rocky Mountain National Park,Colorado,2014,,40.3553915,-105.71769566830672
 Nancy Elaine Leichner,21,Ocala National Forest,Florida,1966,,29.236560349999998,-81.75042882926287
-Thomas Payton Andrews,61,Apalachee National Forest,Florida,1992,,,
+Thomas Payton Andrews,61,Apalachee National Forest,Florida,1992,,29.422260,-81.664511
 Leonard Taku,44,Ocala National Forest,Florida,2006,,29.236560349999998,-81.75042882926287
 Roger Sawyer,67,Everglades National Park,Florida,2011,,25.36794425,-80.87830662413266
 Lacey Marie Buenfil,25,Ocala National Forest,Florida,2011,,29.236560349999998,-81.75042882926287
@@ -137,28 +137,28 @@ Warren Ward,11,Everglades National Park,Florida,2015,,25.36794425,-80.8783066241
 Daniel Ray Carnahan,44,Ocala National Forest,Florida,2017,,29.236560349999998,-81.75042882926287
 Arman B. Johnson,44,Hawaii Volcanoes National Park,Hawaii,2005,,19.2608312,-155.35786619252616
 John Cameron Reece,22,Awini Trail,Hawaii,1999,,20.2018097,-155.7297002
-Timothy Lynch,44,Hawaii National Parks Region,Hawaii,2003,,,
+Timothy Lynch,44,Hawaii National Parks Region,Hawaii,2003,,19.585022,-154.973140
 DeOrr Kunz,2,Salmon Challis National Forest,Idaho,2015,,43.843629,-113.91225789882
 Jon Francis,age unspecified,Sawtooth Mountain Range,Idaho,2006,body found,40.465828,-104.994824
 Clyde Bowman,57,Salmon National Forest,Idaho,1981,,45.2501938,-114.501201
 Christopher Lyn Holverson,18,Targhee National Forest,Idaho,1998,,44.5001989,-111.3341184
-Ronald Scott Gray,62,Nez Perce National Forest,Idaho,2008,,,
+Ronald Scott Gray,62,Nez Perce National Forest,Idaho,2008,,46.489300,-115.798949
 William Hofflander,27,Windy Saddle Campground,Idaho,2010,,45.3507116,-116.509171
 Susan Seymour Adams,30,Selway-Bitterroot Wilderness,Idaho,1990,,46.1573745,-114.92384459643026
-Kurt Newton,4,Chain of Ponds State Park,Maine,1975,,,
+Kurt Newton,4,Chain of Ponds State Park,Maine,1975,,45.345780,-70.681270
 Adam AJ Emmett,45,Acadia National Park,Maine,2019,,44.356311500000004,-68.21547874304889
-Jan Pattinson,age unspecified,Baraga National Park,Michigan,1993,,,
+Jan Pattinson,age unspecified,Baraga National Park,Michigan,1993,,46.778396,-88.488736
 Christopher Charles Hallaxs,30,Tahquamenon Falls,Michigan,2004,,46.5748174,-85.256778
 Wayne Buckley,73,Sleepy Hollow,Minnesota,2015,,41.085652,-73.8584684
 Donald Weston Dugger,43,Beltrami Island,Minnesota,2012,,48.7116317,-95.4607013
 Robert C. Garman,33,Mark Twain National Park,Missouri,1996,,39.1261598,-90.681512
 David Karl Heitman,42,Mark Twain National Park,Missouri,2016,,39.1261598,-90.681512
-Barry J. Tragen,68,West Glacier Park,Montana,2020,,-43.20973425,170.9564998184448
+Barry J. Tragen,68,West Glacier Park,Montana,2020,,48.441489,-113.218424
 Mark Sinclair,66,Glacier National Park,Montana,2019,,48.6174862,-113.76088505945765
 Curtis Austin Holmen,31,Placid Lake State Park,Montana,1984,,47.13049,-113.5175815
 Daniel Campbell,36,Yellowstone National Park,Montana,1991,,44.6200885,-110.56068933143061
 Patrick Whalen,33,Glacier National Park,Montana,2000,,48.6174862,-113.76088505945765
-Carl Steven Sander,48,Humboldt-Toiyabe National Park,Nevada,2002,,,
+Carl Steven Sander,48,Humboldt-Toiyabe National Park,Nevada,2002,,40.602962,-118.251816
 Judith Ellen Casida,62,Pumpernickel Valley,Nevada,2006,,40.7869436,-117.4465765
 Patrick Francis Carnes,86,Pumpernickel Valley,Nevada,2011,,40.7869436,-117.4465765
 Ronald Kirk,46,Red Rock,Nevada,2010,body found,36.6044451,-109.060653
@@ -167,18 +167,18 @@ Emma Frances Tresp,71,Santa Fe National Forest,New Mexico,1998,,36.06687505,-106
 Melvin Nadel,61,Santa Fe National Forest,New Mexico,2009,,36.06687505,-106.41838429130192
 Douglass Legg,8,Adirondack Mountains,New York,1971,,44.03824425,-74.49735064633873
 Earl Eric Dunckel,21,Adirondack Mountains,New York,1993,,44.03824425,-74.49735064633873
-George James LaForest Jr.,45,Siamese Ponds Park,New York,2006,,,
+George James LaForest Jr.,45,Siamese Ponds Park,New York,2006,,40.789536,-73.745476
 Tom Messick,82,Lake George,New York,2015,,43.6276486,-73.54977358231127
-James Albert Hogue,63,Blue Ridge Parkway Region,North Carolina,2019,,,
+James Albert Hogue,63,Blue Ridge Parkway Region,North Carolina,2019,,35.042976,-82.305610
 Thelma Pauline Melton,58,Great Smoky Mountains National Park,North Carolina,1981,,35.634220049999996,-83.40236602525079
 Jaryd Atadero,3,Roosevelt National Park,North Dakota,1999,remains found,41.7620379,-73.8990245
-Samuel Boehlke,8,Crater Lake,Oregon,2006,,42.94152615,-122.09882028426762
-Keith Parkins,2,Ritter Hot Springs Region,Oregon,1952,,,
-Enrique Roman-Martinez,21,Cape Lookout,Oregon,2020,36.75451150000001,6.885625492591183
+Samuel Boehlke,8,Crater Lake,Oregon,2006,,43.891187,-121.442331
+Keith Parkins,2,Ritter Hot Springs Region,Oregon,1952,,42.114773,-121.286514
+Enrique Roman-Martinez,21,Cape Lookout,Oregon,2020,,45.318391,-123.933146
 B.B.Bakowski,age unspecified,Crater Lake,Oregon,1911,,42.94152615,-122.09882028426762
 Herbert Brown,age unspecified,Silver Creek Falls,Oregon,1935,,48.6921529,-122.3860806
 Betty McCullough,10,Silver Creek Falls,Oregon,1941,,48.6921529,-122.3860806
-Richard Herman,age unspecified,Emigrant Springs State Park,Oregon,1959,,,
+Richard Herman,age unspecified,Emigrant Springs State Park,Oregon,1959,,45.368646,-110.733632
 Martin Jerome Ryan,9,Silver Falls State Park,Oregon,1960,,44.8660937,-122.62359917238294
 James McCormick,16,Mount Hood,Oregon,1961,,45.3735129,-121.695878
 Robert Winters,78,Deschutes National Forest,Oregon,1969,,43.966392,-121.6056713569406
@@ -186,20 +186,20 @@ Charles McCullar,19,Crater Lake,Oregon,1979,,42.94152615,-122.09882028426762
 Edward Chester Nye,14,Sky Lakes Wilderness,Oregon,1978,,42.60249675,-122.20238096635595
 Nathan Madsen,9,Deschutes National Forest,Oregon,1989,,43.966392,-121.6056713569406
 Corey Fay,17,Badger Creek Wilderness,Oregon,1991,remains found,45.30797055,-121.4702877573216
-Wayne David Powell,39,Umpque National Park,Oregon,1994,,,
+Wayne David Powell,39,Umpque National Park,Oregon,1994,,43.364682,-123.471027
 Kenneth Budlong,45,Mount Hood,Oregon,1995,,45.3735129,-121.695878
 Robert Michael Bobo,36,Rogue River-Siskiyou National Forest,Oregon,1998,,42.400044199999996,-123.91256262459194
 Derrick James Engebretson,8,Fremont-Winema National Forest,Oregon,1998,,42.7254358,-121.57455876974691
 Corwin Osborn,45,Three Sisters Wilderness,Oregon,2001,,44.04788355,-121.94365946267843
 Jason Anthony Franks,21,Fremont-Winema National Forest,Oregon,2001,remains found,42.7254358,-121.57455876974691
-Jeromy Ivan Childress,31,Tillamook National Forest,Oregon,2004,,,
+Jeromy Ivan Childress,31,Tillamook National Forest,Oregon,2004,,45.456326,-123.843161
 Glenda Sue Shoptaugh,62,Mount Hood,Oregon,2005,,45.3735129,-121.695878
 Russell Matthew Gonzalez,41,Willamette National Forest,Oregon,2006,,44.12804425,-122.01759265878893
 Robert Perry Bissell,57,Roaring River,Oregon,2010,,18.4083649,-77.1474016
 Steven Martin Moline Jr.,30,Mount Hood,Oregon,2011,,45.3735129,-121.695878
 Nikolas James Roche,32,Siuslaw National Forest,Oregon,2017,,43.9014582,-123.87381879320014
-Jerry Lee McKoen,48,Malin Region,Oregon,1954,,49.3031569,15.7003947
-Jay Cee,38,Pisgah National Forest,Rhode Island 2002,,,35.30063265,-82.81364145512714
+Jerry Lee McKoen,48,Malin Region,Oregon,1954,,42.010005,-121.408262
+Jay Cee,38,Pisgah National Forest,Rhode Island,2002,,35.30063265,-82.81364145512714
 Jason Knapp,20,Table Rock State Park,South Dakota,1998,,35.0364702,-82.71389844944991
 Derek J. Lueking,24,Great Smoky Mountains National Park,Tennessee,2012,,35.634220049999996,-83.40236602525079
 Thelma Pauline Melton,58,Great Smoky Mountains National Park,Tennessee,1981,,35.634220049999996,-83.40236602525079
@@ -221,12 +221,12 @@ Loralee Sue Lhotka,19,Okanogan-Wenatchee National Forest,Washington,1975,,47.727
 Steve Martin,2,Kaniksu National Forest,Washington,1975,,48.0663499,-115.8044189
 Diane Leslie Reeves,23,Mount Baker,Washington,1989,,48.7767701,-121.814566
 Beverly Cummings,53,Okanogan-Wenatchee National Forest,Washington,1990,,47.727767850000006,-120.879923
-Cheryl Lynn Valenti,33,Giffort Pinchot National Forest,Washington,1997,,,
+Cheryl Lynn Valenti,33,Giffort Pinchot National Forest,Washington,1997,,46.756767,-122.056206
 Stephen Michael Mason,52,Olympic National Park,Washington,2006,,47.786532449999996,-123.53605033085455
 Gregory R. Brown,49,Alpine Lake Wilderness,Washington,2005,,40.5035407,-111.7254041203037
 Gilbert Mark Gilman,47,Olympic National Park,Washington,2006,,47.786532449999996,-123.53605033085455
-Robert Perry Bisell,57,Roaring River Region,Washington,2010,,-40.8763442,175.1978749
-Maureen Kelly,19,Giffort Pinchot,Washington,2013,,,
+Robert Perry Bisell,57,Roaring River Region,Washington,2010,,47.773235,-121.485488
+Maureen Kelly,19,Giffort Pinchot,Washington,2013,,48.306780,-118.146842
 Kristopher B. Zitzewitz,31,Mount Baker,Washington,2013,,48.7767701,-121.814566
 Wilford Ray Johnson,90,Gifford Pinchot State Park,Washington,2017,,40.077447500000005,-76.88713115867498
 Shirley Baumann,61,Quartz Creek,Washington,2020,remains found,58.7499684,-130.4554633
@@ -238,12 +238,12 @@ Amy Wroe Bechtel,24,Shoshone National Forest,Wyoming,1997,,43.9912968,-109.45749
 Bruce Parker Pike,47,Yellowstone National Park,Wyoming,2006,,44.6200885,-110.56068933143061
 Charles Gustafson,72,Medicine Bow National Forest,Wyoming,2006,,41.2502503,-106.2508484
 Stuart Isaac,48,Yellowstone National Park,Wyoming,2010,,44.6200885,-110.56068933143061
-Lucy Schummann,48,Virgin Islands Region,Virgin Islands,2019,,5.5562923,-0.27494428835966883
+Lucy Schummann,48,Virgin Islands Region,Virgin Islands,2019,,18.342954,-64.741757
 Rayman W. Handy, 43, Pinnacles National Park, California, 2007,,36.486251499999995,-121.17114078925317
 Trammell M Evans, 25, Joshua Tree National Park, California, 2023,,33.89706715,-115.95111578868344
 Robert Alan Wildoner,76, Death Valley National Park, California, 2021,,36.4702428,-117.08839086763231
-Eduardo Luis Marinez Perez, 31, Stanislaus National Forrest, California, 2021,,,
-Maria Loida Tice, 60, Angeles National Forrest, California, 2021,,,
+Eduardo Luis Marinez Perez, 31, Stanislaus National Forrest, California, 2021,,38.137478,-120.369995
+Maria Loida Tice, 60, Angeles National Forrest, California, 2021,,34.286030,-118.315080
 Cian John McLaughlin, 27, Grand Teton National Park, Wyoming, 2021,,43.81056675,-110.64879477714322
 Michael Gerald Bullinger, 60, Grand Teton National Park, Wyoming, 2017,,43.81056675,-110.64879477714322
 Laura N. Macke, 35, Olympic National Park, Washington, 2022,,47.786532449999996,-123.53605033085455
@@ -255,7 +255,7 @@ Vincent Renaldo Djie, 24, Mount Rainier National Park, Washingotn, 2020,,46.8543
 Thomas Leonard Irwin, 73, Mesa Verde National Park, Colorado, 2024,,37.253776,-108.45559640928934
 Nicholas Edward Salvagni, 32, Golden Gate Canyon State Park, Colorado, 2023,,39.850816449999996,-105.42207193784978
 Chad William Pallansch, 49, Rocky Mountains National Park, Colorado, 2023,,58.12074525,-124.30340932668389
-James H Pruitt, 70, Rocky Mounta National Park, Colorado, 2019,,,
+James H Pruitt, 70, Rocky Mounta National Park, Colorado, 2019,,40.362490,-105.563286
 Melvin George Heaps, 74, Uinta-Wasatch-Cache National Forest, Utah, 2017,,40.94842945,-110.51393769925501
 Frederick Gabriel, 56, Canyonlands National Park, Utha, 2015,,38.233258649999996,-109.92066271557445
 Carroll Donald Parkins, 78, Mt. Hood National Forest, Oregon, 2023,,45.20996475,-121.72323228913245
