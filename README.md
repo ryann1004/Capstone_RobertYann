@@ -1,6 +1,6 @@
-# Capstone_RobertYann
+# High_Strangeness_RobertYann
 
-# Missing Persons in US National Forests
+# The relationship between missing persons and high stangeness in the US
 This project starts exploring geographical location similarities between Missing Persons in the US National Forest, bigfoot, dogman, and ufo sightings as well as US cave systems in the United States. This capstone project demonstrates data cleaning, data wrangling, exploratory analysis, visualization and Sqlite3 for building a database and running queries. 
 
 ## Table of Contents
@@ -80,6 +80,8 @@ Dataset Name: bfro_sightings.csv
    
 Dataset Name: updated_us_cave_systems.csv
     Source: https://en.wikipedia.org/wiki/List_of_longest_caves_in_the_United_State
+            https://www.geolocatify.com/
+            https://www.latlong.net/
     Fields: List of longest caves in the United States
     
 Dataset Name: dogman_sightings.csv
