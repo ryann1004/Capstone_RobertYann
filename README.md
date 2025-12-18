@@ -79,8 +79,7 @@ This project would not have been possible without several tools, frameworks, and
 - **Jupyter Notebook**: An interactive environment for running Python code and documenting the analysis process step by step.
 
 ### AI Tools and Assistance
-- **Duck.ai**: Leveraged for code generation, debugging suggestions, and enhancing documentation. It helped in generating code that was not covered in the Code You Data Analysis class. Specific examples include needing to import Regular Expressions (Regex) in order to change the gps coordinate format from DMS to DD in updated_us_cave_systems.csv so that it could be the same format as the other datasets used. Another example is needing help understanding how to use geopandas, geocoding, geodatasets to plot on a US Map as a visualization.
-- **GitHub Copilot**: Assisted in writing functions and improving code efficiency by suggesting code completions and patterns.
+- **Duck.ai**: It helped in generating code that was not covered in the Code You Data Analysis class. Specific examples include needing to import Regular Expressions (Regex) in order to change the gps coordinate format from DMS to DD in updated_us_cave_systems.csv so that it could be the same format as the other datasets used. Another example is needing help understanding how to use geopandas, geocoding, geodatasets to plot on a US Map as a visualization.
 
 ## Data Sources
 Dataset Name: victims_coords.csv
