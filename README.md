@@ -1,9 +1,7 @@
 # High_Strangeness_RobertYann
 
-# The relationship between missing persons and high stangeness in the US
-This project starts exploring geographical location similarities between Missing Persons in the US National Forest, bigfoot, dogman, and ufo sightings as well as US cave systems in the United States. This capstone project demonstrates data cleaning, data wrangling, exploratory analysis, visualization and Sqlite3 for building a database and running queries. 
-
 ## Table of Contents
+- [Summary]
 - [Prerequisites](#prerequisites)
 - [Acknowledgements]
 - [Setup Instructions](#setup-instructions)
@@ -11,6 +9,14 @@ This project starts exploring geographical location similarities between Missing
 - [Activating and Deactivating the Virtual Environment](#activating-and-deactivating-the-virtual-environment)
 - [Running the Project](#running-the-project)
 - [License](#license)
+
+## Summary
+I'm analyzing data on missing persons in U.S. national forests to identify connections and
+similarities linking these cases to reports of Bigfoot and Dogman sightings, as well as instances
+of high strangeness associated with U.S. cave systems. This project aims to uncover patterns
+that might suggest a deeper, potentially unexplained phenomenon related to these wilderness
+areas. By synthesizing datasets on missing individuals and paranormal sightings, I hope to
+provide fresh insights into these mysterious occurrences                                             
 
 ## Requirements
 Ensure the following are installed on your computer
@@ -48,6 +54,17 @@ macOS and Linus
     Jupyter Notebook: jupyter notebook
 
 ## Summary of observations and conclusions from the main questions queried
+Below are the top questions I wanted to observe:
+1. Similarities in Location of Sightings: Investigate if there are patterns or common geographic locations among sightings of  Bigfoot, Dogman, and UFOs.
+2. Proximity to Missing Persons: Analyze whether the locations of these sightings occur near the last known locations of missing persons in various National Parks.
+3. Relation to Largest US Cave Systems: Determine if sightings of Bigfoot and Dogman are concentrated near or within major cave systems in the United States.
+4. Geographic Distribution of Sightings: Identify regions or states in the U.S. where the majority of these sightings are reported.
+
+Conclusions:
+1. The analysis indicates that there is a significant overlap in the locations of Dogman, UFO, and Bigfoot sightings. This suggests that these phenomena may share common geographic areas, possibly indicating hot spots or regions of interest for further investigation.
+2. The analysis indicates that there is no significant evidence to support a relationship between the GPS locations of sightings (Bigfoot, Dogman, UFOs) and the last known locations of missing persons in various National Parks.
+3. The analysis reveals a noteworthy connection between Bigfoot and Dogman sightings in proximity to large U.S. cave systems. Specifically, there is up to 64 sightings within an 82 square mile radius of these cave systems. By adding additional cave systems and increasing the distance parameter in the analysis, I anticipate that the correlation will further strengthen.
+4. After plotting the sightings on a map of the USA using geopandas, etc. there starts to show a pattern of where the ufo, bigfoot and Dogman sightings are occurring. The strongest areas seem to be in the midwest, southeast, especially the appalachian mountain range as well as up and down the west coast with a focus of the Pacific Northwest. Coincidentally, the majority of the US cave systems as well as National Parks are located in these same hot spots. 
 
 ## Acknowledgements
 This project would not have been possible without several tools, frameworks, and external resources that are listed below. 
@@ -96,7 +113,7 @@ Dataset Name: ufo_sightings_transformed.csv
     Fields; Sightings
 
 ### Personal Acknowledgments
-- Thank you to all the mentors and fellow Code you students for their knowledge and input.
+- Thank you to all the mentors and fellow Code you students for their support, knowledge and input.
 ``
 ## Authors
 - Robert Yann, student at Code You 
