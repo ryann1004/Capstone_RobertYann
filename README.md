@@ -10,7 +10,7 @@
 - [Running the Project](#running-the-project)
 - [License](#license)
 
-## Summary
+## Overview
 I'm analyzing data on missing persons in U.S. national forests to identify connections and
 similarities linking these cases to reports of Bigfoot and Dogman sightings, as well as instances
 of high strangeness associated with U.S. cave systems. This project aims to uncover patterns
